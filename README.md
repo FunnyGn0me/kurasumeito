@@ -34,7 +34,7 @@ Android-приложение для просмотра видео.
 
 ## <a id="title2"> ScreenCast </a>
 
-<img src="https://gifyu.com/image/bSU5r" width="250px" alt="all">
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://rasulyakupov.publit.io/file/screencast.html)
 
 ## <a id="title3"> Структура проекта </a>
 
