@@ -47,6 +47,5 @@ https://github.com/user-attachments/assets/85b0b172-674e-4f99-ad22-8d4523dc2e0f
 - Coil
 - Hilt / Dagger
 - JetpackCompose
-- Navigator
 - Retrofit
 - Room
