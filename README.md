@@ -32,7 +32,7 @@ Android-приложение для просмотра видео.
 
 ## <a id="title2"> ScreenCast </a>
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://rasulyakupov.publit.io/file/screencast.html)
+https://github.com/user-attachments/assets/85b0b172-674e-4f99-ad22-8d4523dc2e0f
 
 ## <a id="title3"> Структура проекта </a>
 
