@@ -34,9 +34,9 @@ Android-приложение для просмотра видео.
 
 https://github.com/user-attachments/assets/270897f8-c464-4993-8e6b-0a46c8f80e7e
 
+https://github.com/user-attachments/assets/89f2e0c0-9157-4939-ad8a-79964248eb0c
+
 https://github.com/user-attachments/assets/85b0b172-674e-4f99-ad22-8d4523dc2e0f
-
-
 
 ## <a id="title3"> Структура проекта </a>
 
